@@ -1,6 +1,6 @@
 # myFirst
 This file includes all my projects while learning
-### Message to My Future Self:
+### Message to My Future Self:2024-09-25 
 
 I know you see the projects and challenges in this file as difficult and overwhelming. But when you come back here after a long time, you will realize they are nothing. The struggles I’m facing now, which seem so hard and exhausting, are just the beginning—this is the toughest stage and the hardest step. If it weren't for this step, you'd be where I am now, doing nothing. Because I endured this, you are now living the dream I wish for.
 
